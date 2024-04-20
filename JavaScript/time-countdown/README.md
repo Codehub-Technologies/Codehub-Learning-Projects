@@ -1,7 +1,7 @@
 # Time Countdown in JavaScript
 
 ### Objective
-The objective of this exercise is to create a time countdown using JavaScript that starts from a specified time (e.g., 20 minutes) and updates dynamically until it reaches zero while showing a background loader. This exercise aims to reinforce your understanding of JavaScript functions, DOM manipulation, and interval timers.
+The objective of this exercise is to create a time countdown using JavaScript that starts from a specified time (e.g., 20 seconds) and updates dynamically until it reaches zero while showing a background loader. This exercise aims to reinforce your understanding of JavaScript functions, DOM manipulation, and interval timers.
 
 ### Requirement/Task Description
 - Create an HTML file with a display area to show the countdown timer 
