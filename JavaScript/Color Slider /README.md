@@ -1,4 +1,4 @@
-# Random Color Generator in JavaScrip
+# Random Color Generator in JavaScript
 ### Objective
 The objective of this exercise is to create a dynamic color slider using JavaScript that updates the background color value dynamically based on user input. This exercise aims to enhance your understanding of DOM manipulation, event handling, and CSS styling using JavaScript.
 
