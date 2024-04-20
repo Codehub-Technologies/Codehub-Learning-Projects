@@ -1,2 +1,2 @@
-# Web-Development-Projects
-A list of Web Development Projects to try out
+# Codehub Learning Projects
+A list of Project Projects to enhance your programming skills
