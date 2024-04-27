@@ -1,1 +1,0 @@
-# Intermidiate HTML/CSS Tasks
