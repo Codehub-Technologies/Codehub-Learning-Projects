@@ -13,7 +13,7 @@ The objective of this project is to create a simple blog card using HTML and CSS
 The blog card component follows the following design system:
 
 #### Font Size:
-- Blog Title: 24px
+- Blog Title: 32px
 - Blog Excerpt: 16px
 - Read More Link: 14px
 
@@ -23,17 +23,28 @@ The blog card component follows the following design system:
 - Read More Link: Bold
 
 #### Margin:
-- Blog Card: 20px (top, bottom, left, right)
-- Blog Title: 10px (bottom)
-- Read More Link: 10px (top)
+- Blog Card: 40px (top, bottom, left, right)
+- Blog Title: 16px (bottom)
+- Read More Link: 16px (top)
 
 #### Padding:
-- Blog Card: 15px (top, bottom), 20px (left, right)
+- Blog Card Content: 32px (top, bottom, left, right)
 - Blog Title: 0px
-- Read More Link: 0px
+- Read More Link: 24px (Left, Right) and 8px (Top and bottom)
+
+#### Card Size
+- Width: 416px
+
+#### Colors
+- Button: #0B1775
+- Card Content: #FFFFFF
+- Card Background: #BCB8B8
+- Blog Title: #000000
+- Blog Excerpt: #4B4545
 
 ## Sample Design
-![blog-card-design-html-and-css-Rustcode-3489763869](https://github.com/osiota10/sass-template/assets/73504914/34dc66c9-31e2-4c1f-84ba-2b99c2edc941)
+![Blog Card Task](https://github.com/osiota10/sass-template/assets/73504914/ab455022-292b-46ae-ac69-9979ef6062b9)
+
 
 ## Submission Guidelines
 - Create a folder named `SimpleBlogCard` for your project.
