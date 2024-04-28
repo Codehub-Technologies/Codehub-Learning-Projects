@@ -1,12 +1,12 @@
 # Simple Blog Card
 
 ## Objective
-The objective of this project is to create a simple blog card using HTML and CSS. The blog card will display a preview of a blog post, including the title, category, and a brief excerpt. 
+The objective of this project is to create a simple blog card using HTML and CSS. The blog card will display a preview of a blog post, including the title and a brief excerpt. 
 
 ## Task Description
 - Create an HTML file (`index.html`) with a display area for the blog card.
 - Implement CSS (`styles.css`) to style the blog card layout for visual appeal and readability.
-- Display blog post information, including title, category, and a short excerpt.
+- Display blog post information, including title and a short excerpt.
 - Include a `Read More` button
 
 ## Design System
