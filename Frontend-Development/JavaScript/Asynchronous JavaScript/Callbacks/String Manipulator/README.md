@@ -15,4 +15,4 @@
 - Define the `stringManipulator` function:
     - `stringManipulator(str, operation)`: Calls the operation callback with str.
 - Test the `stringManipulator` function:
-- Call stringManipulator with `toUpperCase`, `toLowerCase`, `reverseString`, and `getStringLength` as the callback functions.
+    - Call `stringManipulator` with `toUpperCase`, `toLowerCase`, `reverseString`, and `getStringLength` as the callback functions.
