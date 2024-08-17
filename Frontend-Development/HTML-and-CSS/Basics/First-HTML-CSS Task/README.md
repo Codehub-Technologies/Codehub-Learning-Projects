@@ -21,3 +21,5 @@
 * Apply CSS styles to format and style your webpage elements.
 * Apply Different background colors to the 7 different sections
 
+## Expected UI
+![HTML Task One](https://github.com/user-attachments/assets/6ec14995-44cd-45d1-9ac0-f04cf555a225)
