@@ -14,3 +14,12 @@
 #### Fonts
 - Lobster (h1 to h6)
 - Mulish (P and others)
+
+#### Cards
+- Border radius - 32px
+- Max-width - 379px
+
+#### Icons
+##### Work Process
+- Width - 36px
+- Height - 36px
