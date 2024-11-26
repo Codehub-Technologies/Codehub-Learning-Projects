@@ -9,3 +9,7 @@
 
 #### Spacing (Padding and Margin)
 72px, 64px, 56px, 48px, 40px, 32px, 24px, 16px, 8px, and 4px
+
+#### Fonts
+- Lobster (h1 to h6)
+- Mulish (P and others)
