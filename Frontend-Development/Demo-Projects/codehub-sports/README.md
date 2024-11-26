@@ -21,5 +21,5 @@
 
 #### Icons
 ##### Work Process
-- Width - 36px
-- Height - 36px
+- Width - 100px
+- Height - 100px
