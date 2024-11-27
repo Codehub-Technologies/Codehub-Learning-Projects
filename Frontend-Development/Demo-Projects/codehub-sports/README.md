@@ -20,6 +20,11 @@
 - Max-width - 379px
 
 #### Icons
-##### Work Process
-- Width - 100px
-- Height - 100px
+- Work Process - 100px X 100px
+- logo - 64px X 64px
+
+#### Image Dimensions
+- 16 / 9
+- 21 / 9
+- 1 / 1
+- 3 / 4
