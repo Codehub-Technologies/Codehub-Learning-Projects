@@ -23,9 +23,7 @@
 #### Icons
 - Work Process - 100px X 100px
 - logo - 64px X 64px
-- Social Icons - 40px X 40px
-- Testimonial Quote Icons - 24px X 24px
-- Other Icons - 40px X 40px
+- Other Icons - 40px X 40px (Including padding)
 
 #### Image Dimensions
 - 16 / 9
