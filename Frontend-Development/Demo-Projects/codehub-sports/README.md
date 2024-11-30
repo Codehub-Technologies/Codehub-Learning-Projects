@@ -7,6 +7,7 @@
 - #002419 (Dark Green)
 - #FFFFFF (White)
 - #F3F3F3 (Off-white)
+- #ced4da (Input Border)
 
 #### Spacing (Padding and Margin)
 72px, 64px, 56px, 48px, 40px, 32px, 24px, 16px, 8px, and 4px
