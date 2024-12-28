@@ -41,3 +41,16 @@
 - Border - 2px
 - Border Radius - 16px
 - Padding - 8px
+
+#### Typography
+- h1 to h6 - Lobster
+- p and others - Mulish
+- h1 - 61px Bold
+- h2 - 49px Bold
+- h3 - 39px Bold
+- h4 - 31px Bold
+- h5 - 25px Bold
+- h6 - 20px Bold
+- p - 16px Regular
+- small - 13px Bold
+- Button - 16px Bold
