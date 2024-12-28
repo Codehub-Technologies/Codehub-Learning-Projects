@@ -37,7 +37,7 @@
 - Border-radius - 32px
 
 #### Input Forms
-- Height - 64px
+- Height - 48px
 - Border - 2px
 - Border Radius - 16px
 - Padding - 8px
