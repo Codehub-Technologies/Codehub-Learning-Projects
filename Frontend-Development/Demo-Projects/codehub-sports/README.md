@@ -23,7 +23,7 @@
 #### Icons
 - Work Process - 100px X 100px
 - logo - 64px X 64px
-- Other Icons - 40px X 40px (Including padding)
+- Other Icons - 40px X 40px (Including 8px padding)
 
 #### Image Dimensions
 - 16 / 9
