@@ -30,3 +30,8 @@
 - 21 / 9
 - 1 / 1
 - 3 / 4
+
+
+#### Buttons
+- padding - 8px (top and bottom) 24px (left and Right)
+- Border-radius - 32px
