@@ -35,3 +35,9 @@
 #### Buttons
 - padding - 8px (top and bottom) 24px (left and Right)
 - Border-radius - 32px
+
+#### Input Forms
+- Height - 64px
+- Border - 2px
+- Border Radius - 16px
+- Padding - 8px
