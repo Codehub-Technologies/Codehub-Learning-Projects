@@ -46,4 +46,4 @@ Declare:
 
 Check if a customer qualifies for a discount:
 - Senior citizens `OR` students
-- `AND` regular price is over $100
+- `AND` regular price is over N100
