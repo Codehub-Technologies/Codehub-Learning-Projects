@@ -1,9 +1,9 @@
 # JavaScript Logical Operators Practice
 
 Instructions: For each question, write code that:
-- Declares variables as described
-- Uses logical operators (&&, ||, !) to solve the problem
-- Logs the result to the console
+- Declares `variables` as described
+- Uses logical operators `(&&, ||, !)` to solve the problem
+- `Log` the result to the `console`
 
 1. Basic `AND` Operator
 Declare two variables: `isMember` (boolean) and `cartTotal` (number). Check if the user is a member `AND` their cart total is at least N50.
