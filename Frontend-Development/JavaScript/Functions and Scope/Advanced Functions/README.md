@@ -45,8 +45,11 @@ Use a closure to create a BankAccount function with:
 - Methods deposit(amount) and getBalance()
 
 
-Memoization: Create a memoized Fibonacci function using closure.
+### Memoization 
+Create a memoized Fibonacci function using closure.
 
-Currying: Write a curry function that converts sum(a, b, c) into sum(a)(b)(c).
+### Currying 
+Write a curry function that converts sum(a, b, c) into sum(a)(b)(c).
 
-Debounce: Implement a debounce function that delays invoking a function until after a cooldown period.
+### Debounce 
+Implement a debounce function that delays invoking a function until after a cooldown period.
