@@ -5,7 +5,8 @@
 2. Add relevant `comments` and organise your codes properly
 
 ### Prime Checker:
-Write a function `isPrime` that uses a `loop` and `conditionals` to check if a number is `prime`.
+- Write a function `isPrime` that uses a `loop` and `conditionals` to check if a number is `prime`.
+- log a `test` on the console
 
 ### Password Validator:
 Create a function `validatePassword` that checks:
@@ -29,7 +30,7 @@ C = (F - 32) * 5/9
 
 ### Closure + Loop:
 - Create a function `createMultiplier` that takes a number `n` and returns a function. The returned function should multiply its input by `n`.
-- - log a `test` on the console
+- log a `test` on the console
 
 ```
 const double = createMultiplier(2);  
@@ -54,10 +55,10 @@ Use a closure to create a `BankAccount` function with:
 
 
 ### Memoization 
-Create a `memoized` `Fibonacci` function using closure.
+- Create a `memoized` `Fibonacci` function using closure.
 
 ### Currying 
-Write a curry function that converts `sum(a, b, c)` into `sum(a)(b)(c)`.
+- Write a curry function that converts `sum(a, b, c)` into `sum(a)(b)(c)`.
 
 ### Debounce 
-Implement a `debounce` function that `delays` invoking a function until after a cooldown period.
+- Implement a `debounce` function that `delays` invoking a function until after a cooldown period.
