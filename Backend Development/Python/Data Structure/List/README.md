@@ -49,8 +49,8 @@ my_list = [10, 20, 30, 40, 50]
 ```
 
 Compute:
-* Total sum
-* Average
+1. Total sum
+2. Average
 
 
 ## **Exercise 4: Reverse Without Built-in Tools**
@@ -62,14 +62,13 @@ list1 = [100, 200, 300, 400, 500]
 ```
 
 But **you MAY NOT use**:
-
 * `reverse()`
 * slicing (`[::-1]`)
 * `reversed()`
 
 *Hint:* Use swapping or two-pointer technique.
 
----
+
 
 ## **Exercise 5: Transform List Into Squares — With Constraints**
 
@@ -80,7 +79,6 @@ numbers = [1, 2, 3, 4, 5, 6, 7]
 ```
 
 Create a new list where:
-
 * odd numbers → square them
 * even numbers → **cube** them
 
@@ -90,7 +88,6 @@ Expected Output:
 [1, 8, 9, 64, 25, 216, 49]
 ```
 
----
 
 ## **Exercise 6: Find Max, Min, and Second Max**
 
@@ -112,7 +109,6 @@ Find:
 * smallest
 * **second-largest**
 
----
 
 ## **Exercise 7: Count Occurrences + Case-Insensitive Matching**
 
@@ -124,7 +120,7 @@ sports = ['Cricket', 'Football', 'Hockey', 'football', 'Tennis']
 
 Count how many times `"football"` appears **ignoring case**.
 
----
+
 
 ## **Exercise 8: Sort Manually (No Built-ins)**
 
@@ -136,7 +132,7 @@ numbers = [5, 2, 8, 1, 9]
 
 Sort the list **using your own bubble-sort or selection-sort implementation**.
 
----
+
 
 ## **Exercise 9: Deep Copy vs Shallow Copy**
 
@@ -150,7 +146,7 @@ original = [10, 20, [30, 40]]
 2. Create a **deep copy manually (no `copy` module`)**.
 3. Show the difference in output.
 
----
+
 
 ## **Exercise 10: Combine Lists — With Zip Logic**
 
@@ -167,7 +163,7 @@ But the output should be:
 [(1, 10), (2, 20), (3, 30)]
 ```
 
----
+
 
 ## **Exercise 11: Remove Empty Strings + Strings with Only Spaces**
 
@@ -178,11 +174,9 @@ list1 = ["Mike", "", "Emma", "   ", "Kelly", "", "Brad"]
 ```
 
 Remove:
-
 * empty strings
 * strings that contain *only whitespace*
 
----
 
 ## **Exercise 12: Remove Duplicates While Preserving Order**
 
@@ -201,7 +195,6 @@ Expected Output:
 *Constraint:*
 **Do not use `set()`**.
 
----
 
 ## **Exercise 13: Remove All Occurrences — Without Using `remove()`**
 
@@ -216,7 +209,7 @@ Remove all occurrences of 20 using:
 * list comprehension OR
 * manual iteration with indexes
 
----
+
 
 ## **Exercise 14: Extract Only Integers — But Keep Their Order**
 
@@ -228,7 +221,7 @@ my_list = [1, 2, 3, 'Jessa', 4, 5, 'Kelly', 'Jhon', 6]
 
 Output only integers using a comprehension *and* verify the type.
 
----
+
 
 ## **Exercise 15: Access Deeply Nested Elements**
 
@@ -244,7 +237,7 @@ Print:
 * Middle element (55)
 * Last element of the first list
 
----
+
 
 ## **Exercise 16: Flatten Nested List of Unknown Depth**
 
@@ -263,7 +256,7 @@ Expected Output:
 *Constraint:*
 Must work for **any depth**, not only 1 or 2.
 
----
+
 
 ## **Exercise 17: Index-Wise Concatenation — With Unequal Lengths**
 
@@ -280,7 +273,7 @@ Expected Output:
 ['My', 'name', 'is', 'Kelly', 'extra']
 ```
 
----
+
 
 ## **Exercise 18: Cartesian Concatenation — But Exclude Identical Pairs**
 
@@ -303,7 +296,7 @@ But **remove cases where both letters are equal**:
 ['AB', 'AC', 'BA', 'BC', 'CA', 'CB']
 ```
 
----
+
 
 ## **Exercise 19: Pair Lists — Without Using `zip()`**
 
@@ -323,7 +316,6 @@ Print:
 40 100
 ```
 
----
 
 ## **Exercise 20: Insert After a Value (Nested)**
 
@@ -335,7 +327,7 @@ list1 = [10, 20, [300, 400, [5000, 6000], 500], 30, 40]
 
 Insert `7000` after `6000` **regardless of nesting depth**.
 
----
+
 
 ## **Exercise 21: Extend Deepest Nested List Dynamically**
 
@@ -348,7 +340,7 @@ sub_list = ["h", "i", "j"]
 
 Append the sublist into the **deepest nested list** (the one containing `["f", "g"]`).
 
----
+
 
 ## **Exercise 22: Replace First Occurrence of a Value — In a Nested Structure**
 
