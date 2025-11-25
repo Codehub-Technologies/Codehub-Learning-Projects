@@ -1,5 +1,9 @@
 # Python List Exercise
 
+**Instruction:**
+1. Create a file `python_list.py` and complete the task below
+2. Add relevant `comments` and organise your codes properly
+
 ## **Exercise 1: Deeper List Access & Validation**
 
 Given:
