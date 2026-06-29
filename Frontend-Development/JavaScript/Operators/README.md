@@ -3,7 +3,7 @@
 
 ---
 
-## 🟢 Part 1: Arithmetic Operators (Exercises 1 - 4)
+## Part 1: Arithmetic Operators (Exercises 1 - 4)
 
 ### Exercise 1: The Remainder Finder
 
@@ -27,7 +27,7 @@
 
 ---
 
-## 🟡 Part 2: Assignment Operators (Exercises 5 - 8)
+## Part 2: Assignment Operators (Exercises 5 - 8)
 
 ### Exercise 5: The Bank Deposit
 
@@ -51,7 +51,7 @@
 
 ---
 
-## 🔴 Part 3: Comparison Operators (Exercises 9 - 11)
+## Part 3: Comparison Operators (Exercises 9 - 11)
 
 ### Exercise 9: The Type Trap
 
@@ -70,7 +70,7 @@
 
 ---
 
-## 🔥 Part 4: Logical & Combined Operators (Exercises 12 - 15)
+## Part 4: Logical & Combined Operators (Exercises 12 - 15)
 
 ### Exercise 12: Login Authentication
 
