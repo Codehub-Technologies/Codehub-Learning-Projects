@@ -139,3 +139,91 @@ console.log(bankAccount.deposit(50));   // Expected Output: 300
 console.log(bankAccount.withdraw(100)); // Expected Output: 200
 
 ```
+
+---
+
+## Task 6: The "Profile Card" Debugging Challenge (Arrow vs. Inner Functions)
+
+**Objective:** Spot and fix context runtime bugs caused by the improper layout of arrow functions and standard inner functions inside object definitions.
+
+### Instructions:
+
+A developer wrote the following profile application widget, but it is currently broken. When `profile.displayDetails()` is executed, it prints unexpected values to the console.
+
+Copy the code below into your editor and fix the following bugs without changing the text strings:
+
+1. The `displayDetails` method is defined as an **arrow function**, causing it to lose access to the local `name` property. Convert it into a **standard shorthand method**.
+2. The nested `renderTag` function inside `displayTags` loses its `this` binding completely, crashing the script. Fix it by converting `renderTag` into an **arrow function** so that it lexically inherits the correct object instance scope from its parent method.
+
+### Starter Code:
+
+```javascript
+const profile = {
+  name: "Alex",
+  tags: ["Developer", "Mentor"],
+  
+  // Bug 1: Fix this method's function type definition
+  displayDetails: () => {
+    console.log(`User Profile Name: ${this.name}`);
+  },
+  
+  displayTags() {
+    // Bug 2: Convert this inner function to fix the context binding trap
+    function renderTag(tag) {
+      console.log(`${this.name} is tagged as: ${tag}`);
+    }
+    
+    this.tags.forEach(renderTag);
+  }
+};
+
+// --- Test Execution ---
+profile.displayDetails(); // Should log: "User Profile Name: Alex"
+profile.displayTags();    // Should log: "Alex is tagged as: Developer", etc.
+
+```
+
+---
+
+## Task 7: The Shared Device Engine (Explicit Context Hijacking)
+
+**Objective:** Use `.call()` to explicitly override execution contexts and run a single unattached function across completely unique data structures.
+
+### Instructions:
+
+Instead of rewriting the exact same logic inside dozens of different objects, software engineers keep code dry by writing decoupled standalone functions and applying them explicitly when needed.
+
+1. Write a standalone global function named `processOrder()`.
+2. Inside `processOrder`, use the `this` keyword to calculate a new total value based on the formula:
+
+$$\text{Total} = \text{this.basePrice} - \text{this.discount}$$
+
+
+3. Have `processOrder` log a final summary string format exactly like this:
+`"Order item processed. Final Total: $X"`
+4. Using the `.call()` method, invoke your standalone function twice:
+* First, run it explicitly binding `this` to the `order1` configuration object.
+* Second, run it explicitly binding `this` to the `order2` configuration object.
+
+
+
+### Starter Code:
+
+```javascript
+const order1 = {
+  itemId: "B100",
+  basePrice: 50,
+  discount: 10
+};
+
+const order2 = {
+  itemId: "C250",
+  basePrice: 120,
+  discount: 30
+};
+
+// 1. Write your standalone processOrder function here
+
+// 4. Invoke the function explicitly using .call() on both orders below:
+
+```
