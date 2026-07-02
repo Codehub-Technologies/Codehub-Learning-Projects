@@ -7,7 +7,7 @@
 
 **Objective:** Practice building a single standalone object literal, and then refactoring it into a re-usable Constructor Function blueprint.
 
-### Instructions for Students:
+### Instructions:
 
 1. **Create an Object Literal:** Create a standalone object named `smartTV` using curly braces `{}`. Give it the properties `brand` (string), `screenSize` (number), and `is4K` (boolean). Fill it with whatever values you like.
 2. **Create a Constructor Function:** Now, imagine your store expands and you need to make hundreds of TVs. Write a constructor function named `Device(brand, screenSize, is4K)`. Inside the template, use the `this` keyword to dynamically map the incoming arguments to the object properties.
@@ -23,7 +23,7 @@
 
 **Objective:** Take a legacy ES5 constructor function blueprint and upgrade it to a modern ES6 Class structure.
 
-### Instructions for Students:
+### Instructions:
 
 Below is a legacy ES5 constructor function used to generate profiles for a gaming application. Your job is to update this code to meet modern ECMAScript standards using **Class Syntax**.
 
